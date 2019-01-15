@@ -1,4 +1,4 @@
 [submodule "tellform"]
 	path = tellform
-	url = git@github.com:tellform/tellform
+	url = git@github.com:loasishospitality/tellform
     branch = docker
